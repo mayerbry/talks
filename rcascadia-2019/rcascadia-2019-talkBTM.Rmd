@@ -1,0 +1,10 @@
+---
+title: "Reproducible Data Processing in Team Workflows with DataPackageR"
+author: Bryan Mayer
+date: June 8, 2019
+output: beamer_presentation
+---
+
+# In the morning
+
+## Getting up
